@@ -80,7 +80,7 @@ state_write = State_Writer("", 10, 100)
 
 tim.shape("blank_states_img.gif")
 
-# def mouse_click(x,y):
+# def mouse_click(x,y): 
 #     print(x,y)
 # screen.onscreenclick(fun=mouse_click)
 # screen.mainloop()
